@@ -15,3 +15,5 @@ pub mod heap_sort;
 pub mod counting_sort;
 
 pub mod radix_sort;
+
+pub mod shell_sort;
