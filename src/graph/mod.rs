@@ -13,3 +13,5 @@ pub mod kruskal;
 pub mod prim;
 
 pub mod topological_sort;
+
+pub mod floyd_warshall;
