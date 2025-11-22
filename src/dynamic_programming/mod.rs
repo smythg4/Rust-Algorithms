@@ -9,3 +9,5 @@ pub mod longest_common_subsequence;
 pub mod longest_increasing_subsequence;
 
 pub mod edit_distance;
+
+pub mod coin_change;
