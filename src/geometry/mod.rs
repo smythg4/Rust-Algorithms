@@ -1,5 +1,6 @@
 //! Computational geometry primitives.
 
+pub mod closest_pair;
 pub mod convex_hull;
 pub mod point_in_polygon;
 pub mod polygon_area;
