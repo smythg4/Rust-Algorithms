@@ -68,6 +68,7 @@ Source root: [`src/`](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/sr
 - [Fast Doubling Fibonacci](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/math/fast_doubling_fibonacci.rs)
 - [Gcd Lcm](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/math/gcd_lcm.rs)
 - [Modular Exponentiation](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/math/modular_exponentiation.rs)
+- [Modular Ncr](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/math/modular_ncr.rs)
 - [Sieve Of Eratosthenes](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/math/sieve_of_eratosthenes.rs)
 
 ## Searching
