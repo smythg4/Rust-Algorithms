@@ -73,6 +73,7 @@ Source root: [`src/`](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/sr
 - [Functional Graph Rho](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/graph/functional_graph_rho.rs)
 - [Heavy Light Decomposition](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/graph/heavy_light_decomposition.rs)
 - [Hopcroft Karp](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/graph/hopcroft_karp.rs)
+- [Johnsons Apsp](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/graph/johnsons_apsp.rs)
 - [Karger Min Cut](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/graph/karger_min_cut.rs)
 - [Konigs Theorem](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/graph/konigs_theorem.rs)
 - [Kosaraju Scc](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/graph/kosaraju_scc.rs)
