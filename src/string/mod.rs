@@ -10,6 +10,8 @@ pub mod kmp;
 
 pub mod manacher;
 
+pub mod polynomial_hash;
+
 pub mod rabin_karp;
 
 pub mod roman_numerals;
