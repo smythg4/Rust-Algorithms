@@ -156,6 +156,7 @@ Source root: [`src/`](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/sr
 - [Boyer Moore Horspool](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/string/boyer_moore_horspool.rs)
 - [Finite Automaton Match](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/string/finite_automaton_match.rs)
 - [Kmp](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/string/kmp.rs)
+- [Lyndon Duval](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/string/lyndon_duval.rs)
 - [Manacher](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/string/manacher.rs)
 - [Polynomial Hash](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/string/polynomial_hash.rs)
 - [Rabin Karp](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/string/rabin_karp.rs)
