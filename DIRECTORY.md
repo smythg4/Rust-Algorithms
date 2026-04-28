@@ -109,6 +109,7 @@ Source root: [`src/`](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/sr
 ## String
 
 - [Anagram](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/string/anagram.rs)
+- [Boyer Moore Horspool](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/string/boyer_moore_horspool.rs)
 - [Kmp](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/string/kmp.rs)
 - [Rabin Karp](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/string/rabin_karp.rs)
 - [Roman Numerals](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/string/roman_numerals.rs)
