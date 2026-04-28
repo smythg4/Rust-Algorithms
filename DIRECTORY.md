@@ -163,5 +163,6 @@ Source root: [`src/`](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/sr
 - [Roman Numerals](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/string/roman_numerals.rs)
 - [Run Length Encoding](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/string/run_length_encoding.rs)
 - [Suffix Array](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/string/suffix_array.rs)
+- [Suffix Automaton](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/string/suffix_automaton.rs)
 - [Z Algorithm](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/string/z_algorithm.rs)
 
