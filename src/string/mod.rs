@@ -12,7 +12,11 @@ pub mod boyer_moore_horspool;
 
 pub mod eertree;
 
+pub mod finite_automaton_match;
+
 pub mod kmp;
+
+pub mod lyndon_duval;
 
 pub mod manacher;
 
