@@ -10,6 +10,10 @@ Source root: [`src/`](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/sr
 - [Permutations Combinations](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/backtracking/permutations_combinations.rs)
 - [Sudoku](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/backtracking/sudoku.rs)
 
+## Bit Manipulation
+
+- [Cookbook](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/bit_manipulation/cookbook.rs)
+
 ## Data Structures
 
 - [Fenwick Tree](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/data_structures/fenwick_tree.rs)
@@ -37,6 +41,7 @@ Source root: [`src/`](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/sr
 ## Geometry
 
 - [Polygon Area](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/geometry/polygon_area.rs)
+- [Polygon Centroid](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/geometry/polygon_centroid.rs)
 
 ## Graph
 
@@ -61,6 +66,7 @@ Source root: [`src/`](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/sr
 
 - [Activity Selection](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/greedy/activity_selection.rs)
 - [Boyer Moore Majority Vote](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/greedy/boyer_moore_majority_vote.rs)
+- [Fractional Knapsack](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/greedy/fractional_knapsack.rs)
 
 ## Math
 
@@ -101,6 +107,7 @@ Source root: [`src/`](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/sr
 
 ## String
 
+- [Anagram](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/string/anagram.rs)
 - [Kmp](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/string/kmp.rs)
 - [Rabin Karp](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/string/rabin_karp.rs)
 - [Roman Numerals](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/string/roman_numerals.rs)
