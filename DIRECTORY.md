@@ -115,6 +115,7 @@ Source root: [`src/`](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/sr
 - [Bucket Sort](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/sorting/bucket_sort.rs)
 - [Comb Sort](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/sorting/comb_sort.rs)
 - [Counting Sort](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/sorting/counting_sort.rs)
+- [External Kway Merge](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/sorting/external_kway_merge.rs)
 - [Gnome Sort](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/sorting/gnome_sort.rs)
 - [Heap Sort](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/sorting/heap_sort.rs)
 - [Insertion Sort](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/sorting/insertion_sort.rs)
