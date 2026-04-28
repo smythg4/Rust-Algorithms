@@ -53,3 +53,5 @@ pub mod two_sat;
 pub mod heavy_light_decomposition;
 
 pub mod konigs_theorem;
+
+pub mod karger_min_cut;
