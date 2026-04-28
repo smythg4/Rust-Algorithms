@@ -154,6 +154,7 @@ Source root: [`src/`](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/sr
 - [Booths Least Rotation](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/string/booths_least_rotation.rs)
 - [Boyer Moore](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/string/boyer_moore.rs)
 - [Boyer Moore Horspool](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/string/boyer_moore_horspool.rs)
+- [Eertree](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/string/eertree.rs)
 - [Finite Automaton Match](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/string/finite_automaton_match.rs)
 - [Kmp](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/string/kmp.rs)
 - [Lyndon Duval](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/string/lyndon_duval.rs)
