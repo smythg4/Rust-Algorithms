@@ -46,6 +46,7 @@ Source root: [`src/`](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/sr
 - [Prim](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/graph/prim.rs)
 - [Tarjan Scc](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/graph/tarjan_scc.rs)
 - [Topological Sort](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/graph/topological_sort.rs)
+- [Tree Diameter](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/graph/tree_diameter.rs)
 
 ## Greedy
 
