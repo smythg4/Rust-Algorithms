@@ -74,6 +74,7 @@ Source root: [`src/`](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/sr
 
 ## Math
 
+- [Base Conversion](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/math/base_conversion.rs)
 - [Catalan Numbers](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/math/catalan_numbers.rs)
 - [Extended Euclidean](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/math/extended_euclidean.rs)
 - [Fast Doubling Fibonacci](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/math/fast_doubling_fibonacci.rs)
