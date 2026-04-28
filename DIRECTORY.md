@@ -64,6 +64,7 @@ Source root: [`src/`](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/sr
 - [Dfs](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/graph/dfs.rs)
 - [Dijkstra](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/graph/dijkstra.rs)
 - [Edmonds Karp](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/graph/edmonds_karp.rs)
+- [Eulerian Path](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/graph/eulerian_path.rs)
 - [Floyd Warshall](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/graph/floyd_warshall.rs)
 - [Functional Graph Rho](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/graph/functional_graph_rho.rs)
 - [Kosaraju Scc](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/graph/kosaraju_scc.rs)
