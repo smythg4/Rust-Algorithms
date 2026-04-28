@@ -64,4 +64,6 @@ pub mod karger_min_cut;
 
 pub mod matrix_tree;
 
+pub mod stoer_wagner;
+
 pub mod bron_kerbosch;
