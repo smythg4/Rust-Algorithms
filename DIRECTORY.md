@@ -46,6 +46,10 @@ Source root: [`src/`](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/sr
 - [Tarjan Scc](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/graph/tarjan_scc.rs)
 - [Topological Sort](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/graph/topological_sort.rs)
 
+## Greedy
+
+- [Boyer Moore Majority Vote](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/greedy/boyer_moore_majority_vote.rs)
+
 ## Math
 
 - [Extended Euclidean](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/math/extended_euclidean.rs)
