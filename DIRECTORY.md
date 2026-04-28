@@ -24,6 +24,7 @@ Source root: [`src/`](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/sr
 - [Kadane](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/dynamic_programming/kadane.rs)
 - [Knapsack](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/dynamic_programming/knapsack.rs)
 - [Longest Common Subsequence](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/dynamic_programming/longest_common_subsequence.rs)
+- [Longest Common Substring](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/dynamic_programming/longest_common_substring.rs)
 - [Longest Increasing Subsequence](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/dynamic_programming/longest_increasing_subsequence.rs)
 - [Longest Palindromic Subsequence](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/dynamic_programming/longest_palindromic_subsequence.rs)
 - [Matrix Chain](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/dynamic_programming/matrix_chain.rs)
