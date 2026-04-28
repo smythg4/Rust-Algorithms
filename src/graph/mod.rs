@@ -67,3 +67,5 @@ pub mod matrix_tree;
 pub mod stoer_wagner;
 
 pub mod min_path_cover_dag;
+
+pub mod bron_kerbosch;
