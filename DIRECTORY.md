@@ -7,6 +7,7 @@ Source root: [`src/`](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/sr
 ## Backtracking
 
 - [N Queens](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/backtracking/n_queens.rs)
+- [Permutations Combinations](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/backtracking/permutations_combinations.rs)
 - [Sudoku](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/backtracking/sudoku.rs)
 
 ## Data Structures
@@ -36,6 +37,7 @@ Source root: [`src/`](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/sr
 - [A Star](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/graph/a_star.rs)
 - [Bellman Ford](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/graph/bellman_ford.rs)
 - [Bfs](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/graph/bfs.rs)
+- [Bipartite](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/graph/bipartite.rs)
 - [Bridges Articulation](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/graph/bridges_articulation.rs)
 - [Dfs](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/graph/dfs.rs)
 - [Dijkstra](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/graph/dijkstra.rs)
