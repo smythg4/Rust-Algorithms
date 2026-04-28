@@ -62,4 +62,12 @@ pub mod konigs_theorem;
 
 pub mod karger_min_cut;
 
+pub mod matrix_tree;
+
+pub mod stoer_wagner;
+
+pub mod min_path_cover_dag;
+
+pub mod bron_kerbosch;
+
 pub mod push_relabel;
