@@ -52,6 +52,8 @@ pub mod two_sat;
 
 pub mod heavy_light_decomposition;
 
+pub mod centroid_decomposition;
+
 pub mod johnsons_apsp;
 
 pub mod min_cost_max_flow;
