@@ -45,6 +45,7 @@ Source root: [`src/`](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/sr
 - [Bfs](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/graph/bfs.rs)
 - [Bipartite](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/graph/bipartite.rs)
 - [Bridges Articulation](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/graph/bridges_articulation.rs)
+- [Dag Shortest Path](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/graph/dag_shortest_path.rs)
 - [Dfs](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/graph/dfs.rs)
 - [Dijkstra](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/graph/dijkstra.rs)
 - [Edmonds Karp](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/graph/edmonds_karp.rs)
