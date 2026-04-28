@@ -179,7 +179,7 @@ mod tests {
             for n in 1..=4u32 {
                 let seq = de_bruijn(k, n);
                 let expected_len = (k as usize).pow(n);
-                assert_eq!(seq.len(), expected_len, "wrong length for B({k}, {n})",);
+                assert_eq!(seq.len(), expected_len, "wrong length for B({k}, {n})");
 
                 let windows = circular_windows(&seq, n as usize);
                 assert_eq!(windows.len(), expected_len);
