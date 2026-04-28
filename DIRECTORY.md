@@ -6,6 +6,7 @@ Source root: [`src/`](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/sr
 
 ## Backtracking
 
+- [Hamiltonian](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/backtracking/hamiltonian.rs)
 - [Knights Tour](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/backtracking/knights_tour.rs)
 - [N Queens](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/backtracking/n_queens.rs)
 - [Permutations Combinations](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/backtracking/permutations_combinations.rs)
@@ -18,6 +19,7 @@ Source root: [`src/`](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/sr
 
 ## Data Structures
 
+- [Cartesian Tree](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/data_structures/cartesian_tree.rs)
 - [Coordinate Compression](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/data_structures/coordinate_compression.rs)
 - [Fenwick Tree](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/data_structures/fenwick_tree.rs)
 - [Lru Cache](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/data_structures/lru_cache.rs)
@@ -64,6 +66,7 @@ Source root: [`src/`](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/sr
 - [Floyd Warshall](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/graph/floyd_warshall.rs)
 - [Kosaraju Scc](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/graph/kosaraju_scc.rs)
 - [Kruskal](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/graph/kruskal.rs)
+- [Lca Binary Lifting](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/graph/lca_binary_lifting.rs)
 - [Prim](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/graph/prim.rs)
 - [Tarjan Scc](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/graph/tarjan_scc.rs)
 - [Topological Sort](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/graph/topological_sort.rs)
@@ -117,6 +120,7 @@ Source root: [`src/`](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/sr
 - [Quick Sort](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/sorting/quick_sort.rs)
 - [Quickselect](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/sorting/quickselect.rs)
 - [Radix Sort](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/sorting/radix_sort.rs)
+- [Randomized Quicksort](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/sorting/randomized_quicksort.rs)
 - [Selection Sort](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/sorting/selection_sort.rs)
 - [Shell Sort](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/sorting/shell_sort.rs)
 - [Tim Sort](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/sorting/tim_sort.rs)
