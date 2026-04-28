@@ -77,6 +77,7 @@ Source root: [`src/`](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/sr
 - [Catalan Numbers](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/math/catalan_numbers.rs)
 - [Extended Euclidean](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/math/extended_euclidean.rs)
 - [Fast Doubling Fibonacci](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/math/fast_doubling_fibonacci.rs)
+- [Floyd Cycle Detection](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/math/floyd_cycle_detection.rs)
 - [Gcd Lcm](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/math/gcd_lcm.rs)
 - [Modular Exponentiation](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/math/modular_exponentiation.rs)
 - [Modular Ncr](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/math/modular_ncr.rs)
