@@ -26,6 +26,7 @@ Source root: [`src/`](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/sr
 - [Fenwick Tree](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/data_structures/fenwick_tree.rs)
 - [Fenwick Tree 2d](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/data_structures/fenwick_tree_2d.rs)
 - [Lru Cache](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/data_structures/lru_cache.rs)
+- [Open Addressing Hash Table](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/data_structures/open_addressing_hash_table.rs)
 - [Segment Tree](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/data_structures/segment_tree.rs)
 - [Separate Chaining Hash Table](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/data_structures/separate_chaining_hash_table.rs)
 - [Sparse Table](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/data_structures/sparse_table.rs)
