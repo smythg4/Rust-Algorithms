@@ -24,6 +24,7 @@ Source root: [`src/`](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/sr
 - [Block Cut Tree](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/data_structures/block_cut_tree.rs)
 - [Cartesian Tree](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/data_structures/cartesian_tree.rs)
 - [Coordinate Compression](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/data_structures/coordinate_compression.rs)
+- [Dynamic Segment Tree](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/data_structures/dynamic_segment_tree.rs)
 - [Fenwick Tree](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/data_structures/fenwick_tree.rs)
 - [Fenwick Tree 2d](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/data_structures/fenwick_tree_2d.rs)
 - [Fibonacci Heap](https://github.com/0xDevNinja/Rust-Algorithms/blob/main/src/data_structures/fibonacci_heap.rs)
