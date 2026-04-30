@@ -10,6 +10,8 @@ pub mod boyer_moore;
 
 pub mod boyer_moore_horspool;
 
+pub mod eertree;
+
 pub mod kmp;
 
 pub mod manacher;
