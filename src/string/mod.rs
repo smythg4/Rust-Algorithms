@@ -14,6 +14,8 @@ pub mod finite_automaton_match;
 
 pub mod kmp;
 
+pub mod lyndon_duval;
+
 pub mod manacher;
 
 pub mod polynomial_hash;
